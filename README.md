@@ -38,6 +38,8 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/8642/1*iIXOmGDzrtTJmdwbn7cGMw.png"></code>
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1235870003292856320/iRG4_ojf_400x400.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"></code>
 
  
 <a href="https://github.com/ouhamzalhss">
