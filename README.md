@@ -33,3 +33,10 @@
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/OuhamzaL?style=social)](https://twitter.com/OuhamzaL)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)](https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)
 [![GitHub ouhamzalhss](https://img.shields.io/github/followers/ouhamzalhss?label=follow&style=social)](https://github.com/ouhamzalhss)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+
+ 
