@@ -1,4 +1,4 @@
-## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">, I'm Ouhamza 👋
+## <samp>Hello World!</samp> <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/earth.gif" width="22px">, I'm Ouhamza 👋
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhamzalhss&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-<samp>I'm Ouhamza Lhouceine, currently I'm a Software Developper <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Ouhamza Lhouceine, currently I'm a Software Developper <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/developer.gif" width="30px">, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <br/>
 
