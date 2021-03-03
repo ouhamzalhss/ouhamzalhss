@@ -29,3 +29,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost my time searching for new technologies.
 
+
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/OuhamzaL?style=social)](https://twitter.com/OuhamzaL)
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)](https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)
+[![GitHub ouhamzalhss](https://img.shields.io/github/followers/ouhamzalhss?label=follow&style=social)](https://github.com/ouhamzalhss)
