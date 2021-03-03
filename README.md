@@ -1,4 +1,4 @@
-## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px"> ### I'm Ouhamza 👋
+## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">, I'm Ouhamza 👋
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhamzalhss&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
