@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open source projects.
 - 🤔 I’m looking for help with Official documentation.
 - 💬 Ask me about Java.
-- 📫 How to reach me: @OuhamzaL
+- 📫 How to reach me: Twitter - @OuhamzaL
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent almost my time searching for new technologies.
 
