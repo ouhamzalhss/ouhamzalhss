@@ -3,12 +3,11 @@
 
 <samp>I'm Ouhamza Lhouceine, currently I'm a Software Developper <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/developer.gif" width="30px">, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
-<br/>
 
 #### Profile Visits 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhamzalhss&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-:mailbox: Reach me out!
+:mailbox: Reach me out! <br/>
 <a href="https://twitter.com/OuhamzaL">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
