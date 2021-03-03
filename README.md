@@ -1,4 +1,5 @@
 ### Hi, I'm Ouhamza 👋
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouhamzalhss&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -15,6 +16,9 @@
 <a href="https://www.youtube.com/channel/UC3gabTPMiE18TeVVLdO-Vyw/videos">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Full-stack project ( spring / Angular ).
 - 🌱 I’m currently learning more soft skills (english communication), and some devops tools.
