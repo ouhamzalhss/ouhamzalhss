@@ -39,7 +39,7 @@
 
 
 [![Twitter: ouhamzalhss](https://img.shields.io/twitter/follow/OuhamzaL?style=social)](https://twitter.com/OuhamzaL)
-[![Linkedin: ouhamzalhss](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)](https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)
+[![Linkedin: ouhamzalhss](https://img.shields.io/badge/-Ouhamza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)](https://www.linkedin.com/in/hamza-ouhamza-a5a3b1153/)
 [![GitHub ouhamzalhss](https://img.shields.io/github/followers/ouhamzalhss?label=follow&style=social)](https://github.com/ouhamzalhss)
 
 **Languages and Tools:**  
