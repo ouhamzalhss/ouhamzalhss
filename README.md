@@ -19,7 +19,7 @@
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC3gabTPMiE18TeVVLdO-Vyw?sub_confirmation=1">
+<a href="https://www.youtube.com/channel/UC3gabTPMiE18TeVVLdO-Vyw/?sub_confirmation=1">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
