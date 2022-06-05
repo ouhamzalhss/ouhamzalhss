@@ -1,7 +1,7 @@
-## <samp>Hello World!</samp> <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/earth.gif" width="22px">, I'm Ouhamza 👋
+## <samp>Hello World!</samp>, I'm Ouhamza 👋
 
 
-<samp>I'm Ouhamza Lhouceine, currently I'm a Software Developper <img src="https://github.com/ouhamzalhss/ouhamzalhss/blob/main/assets/developer.gif" width="30px">, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Ouhamza Lhouceine, currently I'm a Software Developper, passionate about solving problems with new technology and creating different solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 
 #### Profile Visits 
